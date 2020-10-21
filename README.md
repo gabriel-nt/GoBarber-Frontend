@@ -1,44 +1,113 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://github.com/gabriel-nt/GoBarber-Frontend/blob/master/src/assets/logo.svg" alt="GoBarber" />
+</p>
 
-## Available Scripts
+<h1 align="center">
+    🚀 GoBarber
+</h1>
+<p align="center">Aplicação GoBarber Frontend</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=61DAFB&logo=react" />
+  <img src="https://img.shields.io/static/v1?label=typescript&message=4.0.2&color=blue&logo=typescript" />
+  <!--<img src="https://img.shields.io/badge/repo%20size-2.00%20MB-informational" />-->
+  <img src="https://img.shields.io/badge/last%20commit-october-orange" />
+  <img src="https://img.shields.io/badge/license-MIT-success"/>
+</p>
 
-### `yarn start`
+<p align="center">
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Lincença</a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h3 align="center"> 
+🚧  Finalizado  🚧
+</h3>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### 🖥 Demonstração
+<!--<p>
+   <img src="https://github.com/gabriel-nt/GoRestaurant/blob/master/src/assets/dashboard.PNG" alt="Dashboard"/>
+</p>-->
 
-### `yarn test`
+### 📎 Features
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [x] Login e Logout
+- [x] Reset de Senha
+- [x] Alteração de Senha
+- [x] Listagem do Usuário
+- [x] Atualização de Perfil do Usuário
+- [x] Dashboard do Prestador de Serviços
+- [x] Próximos Agendamentos
+- [x] Listagem de Agendamentos de uma data selecionada
 
-### `yarn build`
+### ⚙ Pré-requisitos
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://https://yarnpkg.com/) 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### 🛠 Configurar Backend
+Para que a aplicação funcione, precisa antes ser configurado o backend da aplicação. Caso não tenha configurado, acesse esse [repositório](https://github.com/gabriel-nt/GoBarber-Backend) e execute o passo a passo da descrição do projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🎲 Rodando Frontend
 
-### `yarn eject`
+```bash
+# Clone este repositório
+$ git clone https://github.com/gabriel-nt/GoBarber-Frontend
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Instale as dependências
+$ yarn
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Execute a aplicação
+$ yarn start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Execute os testes
+$ yarn test
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### 🚀 Tecnologias
 
-## Learn More
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- ReactJS
+- Typescript
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 📕 Bibliotecas
+
+Esse projeto foi utilizou das seguintes lib:
+
+- Axios
+- Jest
+- react-router-dom
+- styled-components
+- react-modal
+- yup
+- date-fns
+- unform
+
+### 📙 Arquitetura do Projeto
+
+Para uma melhorar estrutura de projetos utilizamos das seguintes fundamentos:
+
+- TDD
+- Hooks
+
+###  📘 Padrão de Código
+
+Para padronizar a escrita do código, utilizamos as seguinte ferramentas:
+
+- Eslint
+- Prettier
+- EditorConfig
+
+### 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+<hr/>
+
+Feito por Gabriel Teixeira
+
