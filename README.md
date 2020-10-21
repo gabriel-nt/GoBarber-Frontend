@@ -28,9 +28,9 @@
 </h3>
 
 ### 🖥 Demonstração
-<!--<p>
-   <img src="https://github.com/gabriel-nt/GoRestaurant/blob/master/src/assets/dashboard.PNG" alt="Dashboard"/>
-</p>-->
+<p>
+   <img src="https://github.com/gabriel-nt/GoBarber-Frontend/blob/master/src/assets/dashboard.jpg" alt="Dashboard"/>
+</p>
 
 ### 📎 Features
 
