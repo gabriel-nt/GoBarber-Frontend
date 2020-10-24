@@ -29,7 +29,7 @@
 
 ### 🖥 Demonstração
 <p>
-   <img src="https://github.com/gabriel-nt/GoBarber-Frontend/blob/master/src/assets/GoBarber.gif" alt="Dashboard" width="700"/>
+   <img src="https://github.com/gabriel-nt/GoBarber-Frontend/blob/master/src/assets/GoBarber.gif" alt="Dashboard" width="800"/>
 </p>
 
 ### 📎 Features
